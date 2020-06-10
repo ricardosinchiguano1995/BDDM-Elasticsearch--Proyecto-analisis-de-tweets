@@ -1,2 +1,2 @@
 # BDDM-Proyecto
-Primera etapa del proyecto, presentación primer bimestre
+Primera etapa del proyecto, Analisis de datos (Big Data)
